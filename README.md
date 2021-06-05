@@ -24,7 +24,12 @@ Following technologies were used to develop CONVO,
 •	Backend –python and machine learning (NLP and LSTM)
 ![image1](https://user-images.githubusercontent.com/75743573/120898465-9c783280-c648-11eb-8812-9c3641129281.jpeg)
 
- 
+### shareShare
+Social and educational platform which users can chat and play games
+•	Technologies used – Php ,mysql,html,css,bootstrap
+
+![Capture1](https://user-images.githubusercontent.com/75743573/120898699-9b93d080-c649-11eb-822d-e41f4f1fd67a.PNG)
+
 
 
 
