@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello I am Rashfa Razzaq 👋
+  
+I am a Software Engineering undergraduate at University of Westminster who have a passion in Software Engineering, Web Development and Machine Learning .
 
-<!--
-**rashfarazzaq123/rashfarazzaq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Android and react.js
+- 💬 Ask me about anything related to Java/Python or Angular/React.js/mysql/Php/Html/css
+- 📫 How to reach me: rashfarazzaq@gmail.com 
+- ⚡ Fun fact: I ♥ read books , painting , music
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
