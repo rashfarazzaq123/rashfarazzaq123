@@ -31,5 +31,7 @@ Social and educational platform which users can chat and play games
 ![Capture1](https://user-images.githubusercontent.com/75743573/120898699-9b93d080-c649-11eb-822d-e41f4f1fd67a.PNG)
 
 
+### finance calculator
+![image](https://user-images.githubusercontent.com/75743573/121008198-5b029700-c7b0-11eb-9c45-3577e33d7fa6.png)
 
 
