@@ -25,13 +25,13 @@ Following technologies were used to develop CONVO,
 ![image1](https://user-images.githubusercontent.com/75743573/120898465-9c783280-c648-11eb-8812-9c3641129281.jpeg)
 
 ### shareShare
-Social and educational platform which users can chat and play games
-•	Technologies used – Php ,mysql,html,css,bootstrap
+This social and educational platform provides users with the ability to chat and play games. The platform is built using Php, mysql, html, css, and bootstrap technologies, which provide a responsive and user-friendly interface. It offers an engaging experience for users to learn, interact, and have fun in a safe online environment.
 
 ![Capture1](https://user-images.githubusercontent.com/75743573/120898699-9b93d080-c649-11eb-822d-e41f4f1fd67a.PNG)
 
 
 ### finance calculator
+The financial calculator is a distinct application that offers unique financial calculation methods to the user. Unlike typical calculators, it features a modern and sleek design developed using Java and JavaFX. The codebase adheres to object-oriented programming principles and implements best design patterns, resulting in high-quality code. The calculator's minimalistic design and user-friendly interface make it a valuable tool for anyone requiring accurate and reliable financial calculations.
 ![image](https://user-images.githubusercontent.com/75743573/121008198-5b029700-c7b0-11eb-9c45-3577e33d7fa6.png)
 
 
