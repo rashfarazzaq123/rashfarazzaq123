@@ -34,8 +34,8 @@ This social and educational platform provides users with the ability to chat and
 The financial calculator is a distinct application that offers unique financial calculation methods to the user. Unlike typical calculators, it features a modern and sleek design developed using Java and JavaFX. The codebase adheres to object-oriented programming principles and implements best design patterns, resulting in high-quality code. The calculator's minimalistic design and user-friendly interface make it a valuable tool for anyone requiring accurate and reliable financial calculations.
 ![image](https://user-images.githubusercontent.com/75743573/121008198-5b029700-c7b0-11eb-9c45-3577e33d7fa6.png)
 
-###SkyTour - Website Offers Unique Travel Experiences For Independent Explorers.
-skytour is Travelling website for the individual traveler, for the one who tries to avoid the crowds, for the one who loves exploring places without a tour-guide and without pick-up .
-The platform features a gallery section to showcase trending tourism areas and a quiz section to provide knowledge for users. A shopping section is available for users to order famous tourism products, and a feedback section allows tourists to rate the areas they visit. SkyTour was developed using html , css and javascript
+###**SkyTour - Website Offers Unique Travel Experiences For Independent Explorers.**
+
+skytour is Travelling website for the individual traveler, for the one who tries to avoid the crowds, for the one who loves exploring places without a tour-guide and without pick-up .The platform features a gallery section to showcase trending tourism areas and a quiz section to provide knowledge for users. A shopping section is available for users to order famous tourism products, and a feedback section allows tourists to rate the areas they visit. SkyTour was developed using html , css and javascript
 ![image](https://user-images.githubusercontent.com/75743573/227907546-281729a5-c409-4176-ad84-67fa731ffb63.png)
 
