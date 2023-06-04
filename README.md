@@ -3,7 +3,7 @@
 I am a Software Engineering undergraduate at University of Westminster who have a passion in Software Engineering, Web Development and Machine Learning .
 
 - 🌱 I’m currently learning react.js
-- 💬 Ask me about anything related to Java/Python or Angular/React.js/mysql/Php/Html/css
+- 💬 Ask me about anything related to Java/Python/mysql/Springboot/JPA
 - 📫 How to reach me: rashfarazzaq@gmail.com 
 - ⚡ Fun fact: I ♥ painting and music
 
